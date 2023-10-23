@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;hostKeyVerifier&quot;:{&quot;hashKnownHosts&quot;:true}}" host="iz8.c73.myftpupload.com" id="49216a86-b83c-4ea5-89a2-36eba847ef91" port="22" nameFormat="DESCRIPTIVE" username="Hwad4LnNWmFEIb" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</project>
